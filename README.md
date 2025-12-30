@@ -1,7 +1,5 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center">
-  <img src="https://img.shields.io/badge/🌐-Form_Neon-00f3ff?style=for-the-badge&logo=html5&logoColor=white" alt="Form Neon">
-</h1>
+
+## 📑 Descripcion
 
 <p align="center">
   Formulario neon azul + listado dinámico 100 % responsive.<br>
@@ -23,19 +21,17 @@
 ---
 
 ## 🚀 Demo
-![Vista previa](preview.gif)  
-*(próximamente)*
+![Vista previa](preview_formneon.gif)  
+
 
 ---
 
-## 🛠️ Tecnologías
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 📊 Lenguajes y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
 
 ---
+
 
 ## 📦 Características
 | ✅ | Descripción |
@@ -51,14 +47,13 @@
 ---
 
 ## 🗃️ Base de datos
-**Nombre:** `form_neon`  
-**Tabla:** `registros`
+**Tabla:** `form_neon`  
+
+---
 
 ```sql
-CREATE DATABASE form_neon CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE form_neon;
 
-CREATE TABLE registros (
+CREATE TABLE form_neon (
   id INT AUTO_INCREMENT PRIMARY KEY,
   nombre VARCHAR(100) NOT NULL,
   correo VARCHAR(255) NOT NULL,
@@ -67,14 +62,16 @@ CREATE TABLE registros (
   ciudad VARCHAR(100) NOT NULL,
   fecha_registro DATETIME DEFAULT CURRENT_TIMESTAMP
 );
+```
 
-bash
+```bash
 git clone https://github.com/TU_USUARIO/form_neon.git
+```
+---
 
+## 📂 Estructura
 
-📂 Estructura
-
-
+```text
 form_neon/
 ├── index.html              # Vista principal
 ├── procesar.php            # Guardado (AJAX)
@@ -82,12 +79,16 @@ form_neon/
 ├── css/form_neon.css       # Estilos neon + responsive
 ├── js/form_neon.js         # Lógica país/ciudad + AJAX
 └── conexion/conexion.php   # Conexión PDO
+```
+---
 
-
-🤝 Contribuir
+## 🤝 Contribuir
 ¡Las mejoras son bienvenidas!
 Haz un fork → PR y listo.
-📄 Licencia
+
+--- 
+
+## 📄 Licencia
 Este proyecto está bajo la MIT License - ver el archivo LICENSE para detalles.
 <div align="center">
   Hecho con 💙 y neones
