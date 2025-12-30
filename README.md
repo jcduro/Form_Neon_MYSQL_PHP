@@ -1,12 +1,12 @@
-&lt;!-- markdownlint-disable MD033 --&gt;
-&lt;h1 align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/🌐-Form_Neon-00f3ff?style=for-the-badge&logo=html5&logoColor=white" alt="Form Neon"&gt;
-&lt;/h1&gt;
+<!-- markdownlint-disable MD033 -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/🌐-Form_Neon-00f3ff?style=for-the-badge&logo=html5&logoColor=white" alt="Form Neon">
+</h1>
 
-&lt;p align="center"&gt;
-  Formulario neon azul + listado dinámico 100 % responsive.&lt;br&gt;
-  Guarda país/ciudad en MySQL vía AJAX &lt;i&gt;sin recargar&lt;/i&gt;.
-&lt;/p&gt;
+<p align="center">
+  Formulario neon azul + listado dinámico 100 % responsive.<br>
+  Guarda país/ciudad en MySQL vía AJAX <i>sin recargar</i>.
+</p>
 
 ---
 
