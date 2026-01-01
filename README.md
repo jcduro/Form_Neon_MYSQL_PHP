@@ -9,6 +9,7 @@
 ---
 
 ## 📑 Índice
+- [🖼️ Vista Previa](#-vista-previa)
 - [🚀 Demo](#-demo)
 - [🛠️ Tecnologías](#️-tecnologías)
 - [📦 Características](#-características)
@@ -19,8 +20,14 @@
 
 ---
 
+## 🖼️ Vista previa
+
+![Formulario_Neon](preview_formneon.gif)
+
+--- 
+
 ## 🚀 Demo
-![Vista previa](preview_formneon.gif)  
+[Formulario_Neon](https://jcduro.bexartideas.com/proyectos/dashjc/form_neon/form_neon.php)
 
 
 ---
