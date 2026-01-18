@@ -95,7 +95,7 @@ Haz un fork → PR y listo.
 --- 
 
 ## 📄 Licencia
-Este proyecto está bajo la MIT License - ver el archivo LICENSE para detalles.
+Libre, usalo como quieras
 <div align="center">
   Hecho con 💙 y neones
 </div>
